@@ -1,0 +1,9 @@
+---
+- hosts: tower 
+  sudo: yes 
+
+  roles:
+    - geerlingguy.firewall
+    - franklinkim.sudo
+    - evan.common-packages
+    - evan.common-build
