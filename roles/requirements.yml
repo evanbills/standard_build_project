@@ -3,4 +3,4 @@
 - src: franklinkim.sudo 
 
 # from Bitbucket
-- src: git+git@bitbucket.org:evanbills/ansible_std_build_module.git
+- src: git+ssh://git@bitbucket.org:evanbills/ansible_std_build_module.git
